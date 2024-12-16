@@ -30,3 +30,6 @@ sequenceDiagram
   Terminal->>Database: Request customer data
   Database-->>Terminal: Customer data
 ```
+
+> mkdocstrings tutorial: <https://github.com/mkdocstrings/mkdocstrings?tab=readme-ov-file#quick-usage>
+:::src.calc
